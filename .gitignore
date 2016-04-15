@@ -1,0 +1,4 @@
+local-mode-cache
+nodes/
+cookbooks-vendor/
+clients/
