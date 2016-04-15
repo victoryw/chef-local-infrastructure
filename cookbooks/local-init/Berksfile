@@ -1,0 +1,3 @@
+source 'https://supermarket.chef.io'
+metadata
+cookbook 'sublime-text', '~> 0.1.2'
