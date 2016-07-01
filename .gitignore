@@ -2,3 +2,4 @@ local-mode-cache
 nodes/
 cookbooks-vendor/
 clients/
+*.DS_Store

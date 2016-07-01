@@ -7,3 +7,4 @@ long_description 'Installs/Configures local-init'
 version '0.1.0'
 
 depends 'sublime-text','~> 0.1.2'
+depends 'git', '~> 4.5.0'
