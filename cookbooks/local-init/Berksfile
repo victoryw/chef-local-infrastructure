@@ -2,3 +2,4 @@ source 'https://supermarket.chef.io'
 metadata
 cookbook 'sublime-text', '~> 0.1.2'
 cookbook 'git', '~> 4.5.0'
+cookbook 'homebrew', '~> 2.1.0'
