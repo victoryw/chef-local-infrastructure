@@ -13,6 +13,9 @@ homebrew_cask 'atom'
 
 homebrew_cask 'parallels-desktop'
 
+homebrew_cask 'google-chrome'
+
+homebrew_cask 'microsoft-office'
 
 # brew tap homebrew/homebrew-php
 # brew install QT5 --developer --with-demos-examples #install QtWebKitWidgets
